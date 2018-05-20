@@ -1,0 +1,42 @@
+.container div{
+	float:left;
+}
+#right{
+	float:right;
+}
+body{
+/*	float:left;*/
+	background: url(https://i.pinimg.com/originals/7f/fa/d8/7ffad8913129bb4fef84cba80a3a8d9a.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;  
+}
+.main{
+	text-align: center;
+	width:100%;
+	height:100%;
+}
+.btn-group .btn{
+	margin-top:8px;
+} 
+.dropdown-menu{
+	float:left;
+}
+.jumbotron{
+	text-align:center;
+	font-family: 'Slabo 27px', serif;
+	width:50%;
+	margin:0px auto;
+	background:#fadfae;
+	padding:auto 5%;
+}
+.glyphs{
+	 width:25%;
+}
+h1 a{
+	margin:0px 20%;
+	font-size:2em;
+}
+hr{
+	width:800px;
+}
+

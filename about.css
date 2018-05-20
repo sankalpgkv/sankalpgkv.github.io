@@ -1,0 +1,34 @@
+h1{
+	float:left;
+	margin: 5% 0% 5% 21.5%;
+}
+#design{
+	font-family: 'Kaushan Script', cursive;
+    margin:5% 17.5% 5% 8.75%%;
+}
+body{
+	background:url(https://i.pinimg.com/originals/7f/fa/d8/7ffad8913129bb4fef84cba80a3a8d9a.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.container h1{
+	color:#f48f42;
+	font-size:3em;
+}
+.first{
+     
+	float:left;
+	margin: 0%  0% 5% 20%;
+	padding-right:5%;
+	border-right:4px solid teal;
+	width:30%;
+	font-size:2em;
+/* 	color:white; */
+}
+.second{
+	float:left;
+	margin: 0%  5% 5% 5%;
+	width:30%;
+	font-size:2em;
+/* 	color:white; */
+}
